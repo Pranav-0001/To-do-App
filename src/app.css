@@ -85,3 +85,12 @@
     font-style: normal;
     color: grey;
   }
+  .cmplt{
+    background-color: rgb(231, 177, 177);
+    margin-top: 10px;
+    border-radius: 20px;
+    color: black;
+    padding-left: 5px;
+    font-size: small;
+
+  }
